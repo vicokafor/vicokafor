@@ -43,7 +43,7 @@ Skills: Complex SQL queries · Data modelling · Power BI storytelling
 
 ##
 
-### ☕ Café Sales Dashboard
+### ☕ Café Sales Dashboard  (https://github.com/vicokafor/Cafe-sales-dashboard) 
 **Tools: Excel · Data Cleaning · Pivot Tables**
 
 Cleaned and analysed a 10,000-row Kaggle dataset (down to 8,996 usable records) to surface key revenue drivers. 
