@@ -70,6 +70,6 @@ Skills: XLOOKUP · Pivot charts · Data cleaning · Business insight generation
 ### 🤝 Let's Connect
 
 https://www.linkedin.com/in/victoria-okafor-4720a02b8
-
+https://www.kaggle.com/datasets/vicokafor
 ##
 *"Data is just history. Analytics is how we write a better future."*
