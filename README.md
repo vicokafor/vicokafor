@@ -34,12 +34,14 @@ I learn in public, document my journey, and believe that showing your work is ju
 
 
 ## 📁 Featured Projects
-### 🛒 Olist Brazilian E-Commerce Analysis (In Progress)
+### 🛒 Olist Brazilian E-Commerce Analysis
 **Tools: SQL · Power BI**
 
 Analysing 100k+ orders from Brazil's largest e-commerce platform to uncover revenue trends, customer behaviour, and delivery performance. Building an end-to-end pipeline from raw data to interactive dashboard. 
 
 Skills: Complex SQL queries · Data modelling · Power BI storytelling
+
+🔗 [View Project](https://github.com/vicokafor/olist-ecommerce-analysis)
 
 ##
 
