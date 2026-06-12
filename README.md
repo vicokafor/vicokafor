@@ -12,8 +12,6 @@ I'm a data analyst in training with a background in **operations management** an
 
 I learn in public, document my journey, and believe that showing your work is just as powerful as the work itself.
 
-🔭 Currently working on: **Olist Brazilian E-Commerce Analysis** (SQL + Power BI)
-
 🌱 Currently learning: **Time Series Analysis, ARIMA, Python for Data Analytics**
 
 💡 Long-term goal: **Predictive Analytics**
@@ -28,12 +26,20 @@ I learn in public, document my journey, and believe that showing your work is ju
 
 **Visualisation:** Power BI — DAX, Data Modelling, Dashboards
 
-**Programming:** Python — Pandas, Matplotlib *(in progress)*
+**Programming:** Python — Pandas, Matplotlib, Seaborn *(in progress)*
 
 **Soft Skills:** Storytelling with Data · Cross-functional Collaboration · RACI · Agile
 
-
 ## 📁 Featured Projects
+### 🦟 Malaria in Africa EDA
+**Tools: Python · Pandas · Matplotlib · Seaborn**
+
+Exploratory data analysis of malaria trends across 54 African countries — 
+incidence patterns, prevention indicators, and public health correlations.
+
+🔗 [View Project](https://github.com/vicokafor/malaria-in-africa-eda)
+##
+
 ### 🛒 Olist Brazilian E-Commerce Analysis
 **Tools: SQL · Power BI**
 
